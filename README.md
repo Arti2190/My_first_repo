@@ -1,2 +1,2 @@
-# My_first_repo
-## hi this is my first file ##
+# About Me 
+## I am Arti. I am doing certification course in statistics from NCSU. I am planning to do job as a Data Analyst.  ##

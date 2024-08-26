@@ -1,2 +1,4 @@
-# About Me 
-## I am Arti. I am doing certification course in statistics from NCSU. I am planning to do job as a Data Analyst.  ##
+# My First Repo 
+## This is my first Repo.   ##
+This change from Rstudio
+# this is done
